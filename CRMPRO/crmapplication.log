@@ -1,0 +1,14 @@
+2020-03-31 19:32:32,970  INFO [main] LoginTest:26 - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2020-03-31 19:33:02,555  INFO [main] LoginTest:26 - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2020-03-31 19:33:27,379  INFO [main] LoginTest:26 - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2020-03-31 19:34:06,906  INFO [main] LoginTest:26 - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2020-03-31 19:34:27,474 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-31 19:34:27,479 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-31 19:34:27,486 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-31 19:34:27,491 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-31 19:34:27,492 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Lekha%20Rao/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-31 19:34:28,260 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-31 19:34:28,262 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-31 19:34:28,265 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-31 19:34:28,267 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-31 19:34:28,268 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Lekha%20Rao/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
